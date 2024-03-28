@@ -1,7 +1,7 @@
 **Project Description:**
 The project entails two sections: Section A, focusing on Petroleum Data Analytics, and Section B, centered on analyzing a dataset regarding hypertension and ambulatory recording Venetia study.
 
-**Section B:** 
+**Section A:** 
 **Petroleum Data Analytics**
 
 In this section, we embarked on an analytical journey through the 'China_Oilfield.csv' dataset. Here's a breakdown of what we did:
@@ -19,7 +19,7 @@ Outlier Detection and Removal: We detected and removed outliers to ensure the ro
 
 **Evaluation and Comparison:** Finally, we evaluated model performance using metrics like Mean Squared Error (MSE) and R-squared, and compared different models to ascertain the most effective one.
 
-**Section C:**
+**Section B:**
 **Analyzing Hypertension and Ambulatory Recording Venetia Study Dataset**
 In this section, we analyzed a dataset from the hypertension and ambulatory recording Venetia study. Here's what we did:
 
